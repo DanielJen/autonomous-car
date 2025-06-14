@@ -1,0 +1,3 @@
+[submodule "camera/pixel_to_coordinate"]
+	path = camera/pixel_to_coordinate
+	url = https://gitlab.stud.idi.ntnu.no/fuelfighter/autonomous/camera/pixel_to_coordinate.git
